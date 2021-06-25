@@ -11,8 +11,8 @@ proxies:
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
-    username: "445197747281203200"
-    password: 8561df57-1e9b-4f2f-9ec4-400a8d4742bc
+    username: "455130358115991552"
+    password: 8fc54b9f-83f6-4c49-8831-becb9d0a19ca
     tls: true
     skip-cert-verify: true
 ###########碧海2######### 
@@ -29,8 +29,8 @@ proxies:
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
-    username: "444832936227766272"
-    password: 9266e39c-ab9e-4a85-b755-bbbf031b6113
+    username: "457302828692537344"
+    password: 0f4fa579-13a4-4bc3-affb-f4e3037cbda9
     tls: true
     skip-cert-verify: true
 ###########碧海4######### 
@@ -38,8 +38,8 @@ proxies:
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
-    username: "444833224028323840"
-    password: e3eb06e7-2060-4e69-8a32-a36d71e5f73f
+    username: "457302885848317952"
+    password: 5748899d-f646-4ef7-9061-ae52369c5276
     tls: true
     skip-cert-verify: true
 ###########碧海5######### 
